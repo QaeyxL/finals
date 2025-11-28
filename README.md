@@ -263,34 +263,6 @@ res.json({
 
 ---
 
-## 📝 Documentation Files
-
-- **BUG_C_ERROR_AND_SOLUTION.md** - Detailed Bug C analysis with buggy vs fixed code
-- **BUGS_FIXED_SUMMARY.md** - Complete summary of all three bugs
-- **TEST_DATA_FOR_BUGS.md** - Test inputs for each bug
-
----
-
-## 🎓 Learning Outcomes
-
-- ✅ Full-stack MERN development
-- ✅ RESTful API design
-- ✅ React Hooks and Context API
-- ✅ MongoDB schema design
-- ✅ Debugging with console.log
-- ✅ Chrome DevTools Network/Console tabs
-- ✅ Git version control
-
----
-
-## 👨‍💻 Author
-
-**Cris Hilario**
-- Course: ITMGT (Finals Project)
-- Date: November 2025
-
----
-
 ## 📄 License
 
 This project is for educational purposes.
