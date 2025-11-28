@@ -1,4 +1,6 @@
-# Journal Explorer - Finals Project
+# Replace <your-repo-url> with the actual URL you copied
+git remote add origin https://github.com/YOUR_USERNAME/Hilario_finals.git
+git push -u origin main# Journal Explorer - Finals Project
 
 Full-stack MERN (MongoDB, Express, React, Node.js) journal application with user authentication and CRUD operations.
 
